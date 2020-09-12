@@ -57,7 +57,7 @@
 
 
 
-const sectionb = document.getElementById('b');
-const p4 = sectionb.querySelector('p');
+// const sectionb = document.getElementById('b');
+// const p4 = sectionb.querySelector('p');
 
-p4.style.color ='red';
+// p4.style.color ='red';
