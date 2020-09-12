@@ -20,4 +20,3 @@
 
 
 const p2 = document.querySelector('.p2');
-p2.setAttribute('class', 'label');
